@@ -1,2 +1,2 @@
 # This-is-our-repo. <br>
-My name id suprita pal
+My name is suprita pal
